@@ -14,6 +14,8 @@ Compile JavaScript files for browser:
 $ npm start
 ```
 
+Open localhost:3000
+
 ### Advanced
 
 Start server in debug mode:
