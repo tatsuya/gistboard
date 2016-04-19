@@ -1,2 +1,6 @@
+# Node.js
 node_modules
 *.log
+
+# Location of compliled JavaScript files
+public/dist

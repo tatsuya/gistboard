@@ -1,3 +1,6 @@
+var React = require('react');
+var ReactDOM = require('react-dom');
+
 var Gist = React.createClass({
   render: function() {
     // Convert `this.props.children` from React's wrapped text to a raw string
